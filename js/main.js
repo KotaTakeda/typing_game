@@ -2,11 +2,10 @@
 
 let game = {
   words: [
-    'red', 'blue',
-    // 'Hamiltonian Monte Carlo',
-    // 'Navier-Stokes Equations',
-    // 'Topological Flow Data Analysis',
-    // 'Uncertainty Quantification'
+    'Hamiltonian Monte Carlo',
+    'Navier-Stokes Equations',
+    'Topological Flow Data Analysis',
+    'Uncertainty Quantification'
   ],
   currentWord: '',
   matchedIndex: 0,
